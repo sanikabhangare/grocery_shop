@@ -1,0 +1,48 @@
+.customNav{
+    background-color: rgb(245, 24, 90) !important;
+}
+.customContectNav{
+    font-size: 58px;
+}
+.customMargin{
+    margin-left: 150px;
+}
+.customImage{
+    transform: rotate(35deg);
+}
+.forHeight{
+    height: 600px;
+}
+.overFlowAvoid{
+    overflow: hidden;
+}
+.customBg{
+    margin-left: 190px;
+    font-size: 70px;
+    color: rgb(221, 97, 128) !important;
+}
+.customBg:hover{
+    color: rgb(245, 24, 90) !important;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: larger;
+    text-align: center;
+}
+.customBcg{
+    background-color: #f47c7c!important;
+
+}
+.imgEffect{
+    position:relative;
+    left: 700px;
+    top: 120px;
+}
+.BTNcenter{ 
+     margin-left: 180px;
+}
+.customheight{
+    margin-top: 200px;
+}
